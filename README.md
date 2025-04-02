@@ -1,8 +1,10 @@
+<h2 align="center">Hi 👋! My name is Lovely Cristal and I'm a Jr. Developer, from Philippines</h2>
+
 <div align="center">
   <img height="380" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
 </div>
 
-<h2 align="center">Hi 👋! My name is Lovely Cristal and I'm a Jr. Developer, from Philippines</h2>
+
 
 ###
 
